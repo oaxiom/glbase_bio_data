@@ -1,0 +1,8 @@
+spikes	spike	exon	1	776	.	+	.	gene_id "spike1"; transcript_id "spike1"; exon_number "1"; gene_name "spike1"; gene_biotype "spike"; transcript_name "spike1"; exon_id "spike1";
+spikes	spike	exon	778	1552	.	+	.	gene_id "spike2"; transcript_id "spike2"; exon_number "1"; gene_name "spike2"; gene_biotype "spike"; transcript_name "spike2"; exon_id "spike1";
+spikes	spike	exon	1552	2579	.	+	.	gene_id "spike3"; transcript_id "spike3"; exon_number "1"; gene_name "spike3"; gene_biotype "spike"; transcript_name "spike3"; exon_id "spike3";
+spikes	spike	exon	2579	3605	.	+	.	gene_id "spike4"; transcript_id "spike4"; exon_number "1"; gene_name "spike4"; gene_biotype "spike"; transcript_name "spike4"; exon_id "spike4";
+spikes	spike	exon	3605	4664	.	+	.	gene_id "spike5"; transcript_id "spike5"; exon_number "1"; gene_name "spike5"; gene_biotype "spike"; transcript_name "spike5"; exon_id "spike5";
+spikes	spike	exon	4664	5940	.	+	.	gene_id "spike6"; transcript_id "spike6"; exon_number "1"; gene_name "spike6"; gene_biotype "spike"; transcript_name "spike6"; exon_id "spike6";
+spikes	spike	exon	5940	7416	.	+	.	gene_id "spike7"; transcript_id "spike7"; exon_number "1"; gene_name "spike7"; gene_biotype "spike"; transcript_name "spike7"; exon_id "spike7";
+spikes	spike	exon	7416	9440	.	+	.	gene_id "spike8"; transcript_id "spike8"; exon_number "1"; gene_name "spike8"; gene_biotype "spike"; transcript_name "spike8"; exon_id "spike8";
