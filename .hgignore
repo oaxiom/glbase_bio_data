@@ -3,3 +3,6 @@
 .png
 .xls
 .pyc
+.gz
+.zip
+COMPARTMENTS/hg38/human_compartment_knowledge_full.tsv
