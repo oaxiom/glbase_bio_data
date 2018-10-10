@@ -8,5 +8,5 @@ print data
 
 data = data.removeDuplicates('ensg')
 
-data.saveTSV("RBP_mm9.tsv", key_order=["ensg", "name", "domain"])
-data.save("RBP_mm9.glb")
+data.saveTSV("RBP_mm10.tsv", key_order=["ensg", "name", "domain"])
+data.save("RBP_mm10.glb")

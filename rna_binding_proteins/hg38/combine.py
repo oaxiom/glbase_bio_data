@@ -15,5 +15,5 @@ rbp_form = {"force_tsv": True, "ensp": 1, 'name': 0}
 
 dbd = genelist("RNABPDB_huma_data.txt", format=rbp_form)
 dbd = dbd.map(genelist=mapper, key='ensg').removeDuplicates('ensp')
-dbd.save('rbp_db.glb')
-dbd.saveTSV('rbp_db.tsv', key_order=['ensg', 'ensp', 'name'])
+dbd.save('rbp_db_hg38.glb')
+dbd.saveTSV('rbp_db_hg38.tsv', key_order=['ensg', 'ensp', 'name'])
