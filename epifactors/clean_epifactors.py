@@ -1,15 +1,21 @@
 
 
-from glbase import *
+from glbase3 import *
 user_path = os.path.expanduser("~")
-ensg = glload(os.path.join(user_path, "mm10", "mm10_ensembl_v79_ensg.glb")).getColumns(['name', 'ensg'])
+mm10_ensg = glload(os.path.join(user_path, "mm10", "mm10_ensembl_v92_ensg.glb")).getColumns(['name', 'ensg'])
+hg38_ensg = glload(os.path.join(user_path, "hg38", "hg38_ensembl_v89-ensg.glb")).getColumns(['name', 'ensg'])
 
 # mouse
 form_mouse = {'force_tsv': False, 'name': 9}
 
-epifactors_mm10 = genelist(filename='EpiGenes_main.csv', format=form_mouse).map(genelist=ensg, key='name')
+epifactors_mm10 = genelist(filename='EpiGenes_main.txt', format=form_mouse).map(genelist=mm10_ensg, key='name')
 epifactors_mm10 = epifactors_mm10.removeDuplicates('ensg')
 epifactors_mm10.save('mm10_EpiGenes_main.glb')
 epifactors_mm10.saveTSV('mm10_EpiGenes_main.tsv', key_order=['ensg', 'name'])
 
-epifactors_hg38 = genelist(filename='EpiGenes_main.csv', format=form)
+# human
+form_human = {'force_tsv': False, 'name': 1}
+epifactors_hg38 = genelist(filename='EpiGenes_main.txt', format=form_human).map(genelist=hg38_ensg, key='name')
+epifactors_hg38 = epifactors_hg38.removeDuplicates('ensg')
+epifactors_hg38.save('hg38_EpiGenes_main.glb')
+epifactors_hg38.saveTSV('hg38_EpiGenes_main.tsv', key_order=['ensg', 'name'])
