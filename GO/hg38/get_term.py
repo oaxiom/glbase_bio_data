@@ -1,11 +1,11 @@
 
 
-from glbase import *
+from glbase3 import *
 
-mapper = glload(os.path.join(os.path.expanduser("~"), "hg19/hg19_ensembl_v74-ensg-entrez.glb"))
+mapper = glload(os.path.join(os.path.expanduser("~"), "hg38/hg38_ensembl_v94-ensg.glb"))
 go = genelist(filename="20140710_gene_association.goa_ref_human", format={"force_tsv": True, "name": 2, "GO": 4, "commentlines": "!"})
 
-print go
+print(go)
 
 gos_todo = {"GO:0005856": "cytoskeleton",
     "GO:0015629": "actin cytoskeleton",
@@ -33,6 +33,7 @@ gos_todo = {"GO:0005856": "cytoskeleton",
     'GO:0006633': 'Fatty acid biosynthetic process',
     # Just checking:
     "GO:0032502": "Developmental processes",
+    'GO:0043966': 'Histone H3 acetylation', 
     }
 
 for g in gos_todo:
