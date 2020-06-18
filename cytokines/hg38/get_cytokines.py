@@ -6,10 +6,10 @@ Get and arrange cytokine families
 """
 
 import sys, os
-from glbase import *
+from glbase3 import *
 
 user_path = os.path.expanduser("~")
-ems = glload(os.path.join(user_path, "hg19", "hg19_ensembl_v74-ensg-entrez.glb")).removeDuplicates("ensg")
+ems = glload(os.path.join(user_path, "hg38", "hg38_ensembl_v95_enst.glb")).removeDuplicates("ensg")
 
 Families = { # taken from big_tree
     "Interleukins": ems.getRowsByKey(key="name", values="IL[0-9][0-9]$|IL[0-9][0-9][A-F]|IL[0-9][A-F]|IL[0-9][A-F]|IL[0-9]$|LIF$|CLCF1$|CNTF$|CTF[1-2]|EBI3|ILTIFB|LEP$|OSM$"),
@@ -23,7 +23,7 @@ Families = { # taken from big_tree
     "Tgfs": ems.getRowsByKey(key="name", values="TGF[A-B]$|TGF[A-B][0-9]$|LEFTY[1-2]|NODAL|GDNF|NRTN"),
     "Fgfs": ems.getRowsByKey(key="name", values="FGF[0-9]$|FGF[1-2][0-9]$"),
     "Pdgfs": ems.getRowsByKey(key="name", values="PDGF[A-Z]$|PGF"),
-    "Vegfs": ems.getRowsByKey(key="name", values="VEGF[A-Z]|FIGF"),    
+    "Vegfs": ems.getRowsByKey(key="name", values="VEGF[A-Z]|FIGF"),
     "Gdfs": ems.getRowsByKey(key="name", values="GDF[0-9]|MSTN"),
     "Wnts": ems.getRowsByKey(key="name", values="WNT[0-9]$|WNT[0-9][A-E]$|WNT1[0-9]$|WNT1[0-9][A-F]$"),
     "Igfs": ems.getRowsByKey(key="name", values="IGF[1-2]$"),
@@ -38,13 +38,13 @@ Families = { # taken from big_tree
 
 for k in Families:
     if Families[k]:
-        Families[k].saveTSV("hg19_%s.tsv" % k, key_order=["ensg", "name"])
-        Families[k] = genelist(filename="hg19_%s.tsv" % k, format={"ensg":0, "name":1, "force_tsv": True}) # A bunch of junk gets stored in the glb. Strip that out.
-        Families[k].save("hg19_%s.glb" % k)
+        Families[k].saveTSV("hg38_%s.tsv" % k, key_order=["ensg", "name"])
+        Families[k] = genelist(filename="hg38_%s.tsv" % k, format={"ensg":0, "name":1, "force_tsv": True}) # A bunch of junk gets stored in the glb. Strip that out.
+        Families[k].save("hg38_%s.glb" % k)
     else:
-        print ">>> %s empty!" % k
+        print(">>> %s empty!" % k)
 
-all = sum(Families.values()[1:], Families.values()[0])
+all = sum(list(Families.values())[1:], list(Families.values())[0])
 all = all.removeDuplicates("ensg")
 all.saveTSV("all.ensg.tsv", key_order=["name"])
 all.save("all.ensg.glb")

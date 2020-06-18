@@ -6,10 +6,10 @@ Get and arrange cytokine families
 """
 
 import sys, os
-from glbase import *
+from glbase3 import *
 
 user_path = os.path.expanduser("~")
-ems = glload(os.path.join(user_path, "mm9", "mm9_ensembl_v67_enst_entrez.glb")).removeDuplicates("ensg")
+ems = glload(os.path.join(user_path, "mm10", "mm10_ensembl_v95_ensg.glb")).removeDuplicates("ensg")
 
 Families = { # taken from big_tree
     "Interleukins": ems.getRowsByKey(key="name", values="Il[0-9][0-9]$|Il[0-9][0-9][a-f]$|Il[0-9][a-f]|Il[0-9][a-f]|Il[0-9]$|Lif$|Clcf1|Cntf$|Ctf[1-2]|Ebi3|Iltifb|Lep$|Osm$|Ppbp$"),
@@ -37,11 +37,11 @@ Families = { # taken from big_tree
     }
 
 for k in Families:
-    Families[k].saveTSV("mm9_%s.tsv" % k, key_order=["ensg", "enst", "name"])
-    Families[k] = genelist(filename="mm9_%s.tsv" % k, format={"ensg":0, "enst":1, "name":2, "force_tsv": True}) # A bunch of junk gets stored in the glb. Strip that out.
-    Families[k].save("mm9_%s.glb" % k)
+    Families[k].saveTSV("mm10_%s.tsv" % k, key_order=["ensg", "enst", "name"])
+    Families[k] = genelist(filename="mm10_%s.tsv" % k, format={"ensg":0, "enst":1, "name":2, "force_tsv": True}) # A bunch of junk gets stored in the glb. Strip that out.
+    Families[k].save("mm10_%s.glb" % k)
 
-all = sum(Families.values()[1:], Families.values()[0])
+all = sum(list(Families.values())[1:], list(Families.values())[0])
 all = all.removeDuplicates("ensg")
-all.save("mm9_all_cytokines.glb")
-all.saveTSV("mm9_all_cytokines.tsv")
+all.save("mm10_all_cytokines.glb")
+all.saveTSV("mm10_all_cytokines.tsv")
