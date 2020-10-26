@@ -1,10 +1,10 @@
 
 
-from glbase import *
+from glbase3 import *
 
 data = genelist(filename="RBPDB_v1.3.1_proteins_mouse_2012-11-21.csv", format={"ensg": 1, "name": 4, "domain": 8, "skiplines": -1})
 
-print data
+print(data)
 
 data = data.removeDuplicates('ensg')
 
