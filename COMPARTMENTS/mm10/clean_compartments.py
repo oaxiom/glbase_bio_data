@@ -34,8 +34,8 @@ for lin in oh:
     while len(genes[lin[1]]["conditions"]) < cindex:
         genes[lin[1]]["conditions"].append(0)
 
-    if int(lin[6]) >= 3: # Only use >3 confidence
-        genes[lin[1]]["conditions"][comparts[lin[3]]] = int(lin[6])
+    if float(lin[4]) >= 3: # Only use >3 confidence
+        genes[lin[1]]["conditions"][comparts[lin[3]]] = int(float(lin[4]))
 
 oh.close()
 
