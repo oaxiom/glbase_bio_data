@@ -1,0 +1,240 @@
+PROTEIN CITRULLINATION%HUMANCYC%PWY-4921	protein citrullination	Padi1	Padi6	Padi2	Padi3	Padi4	
+METHYLGLYOXAL DEGRADATION III%HUMANCYC%PWY-5453	methylglyoxal degradation III	Akr1b10	Cyp2e1	Akr1b3	
+STEARATE BIOSYNTHESIS I (ANIMALS)%HUMANCYC%PWY-5972	stearate biosynthesis I (animals)	Acsbg1	Acot2	Acot3	Acsbg2	Acot4	Acot7	Acsl1	Elovl1	Acsl5	Acsl3	Acsl4	Slc27a2	Elovl6	
+L-SERINE DEGRADATION%HUMANCYC%SERDEG-PWY	L-serine degradation	Sds	Sdsl	
+CERAMIDE BIOSYNTHESIS%HUMANCYC%PWY3DJ-12	ceramide biosynthesis	Kdsr	Sptlc1	Sptlc2	Sptlc3	Degs2	
+TRYPTOPHAN DEGRADATION X (MAMMALIAN, VIA TRYPTAMINE)%HUMANCYC%PWY-6307	tryptophan degradation X (mammalian, via tryptamine)	Ddc	Maoa	Maob	Aldh3a2	Akr1a1	
+SUPERPATHWAY OF INOSITOL PHOSPHATE COMPOUNDS%HUMANCYC%PWY-6371	superpathway of inositol phosphate compounds	Plcb4	Plcb3	Pikfyve	Ipmk	Ocrl	Ip6k1	Pik3c3	Ip6k2	Plcb2	Plcb1	Ip6k3	Sacm1l	Pi4k2a	Itpka	Ippk	Itpkc	Itpkb	Plcg1	Plcg2	Mtmr14	Pik3r5	Pik3r6	Pip4k2b	Pik3r1	Pip4k2c	Pik3r2	Pik3r3	Pik3r4	Pip4k2a	Inpp5d	Inpp5a	Pi4kb	Inpp5b	Pi4ka	Plch2	Plch1	Plcd1	Plcd4	Plcd3	Inpp5k	Itpk1	Cdipt	Pik3cg	Pik3cb	Pik3cd	Inppl1	Minpp1	Pik3ca	Pi4k2b	Synj1	Plcz1	Pik3c2b	Plce1	Pik3c2a	Pten	Tmem55b	Pik3c2g	Tmem55a	Fig4	Pip5kl1	Mtmr3	Ppip5k1	Ppip5k2	Synj2	Pip5k1c	Pip5k1b	Pip5k1a	
+PUTRESCINE DEGRADATION III%HUMANCYC%PWY-0	putrescine degradation III	Aldh3b1	Aldh2	Aldh3a1	Sat2	Sat1	Maoa	Maob	Aldh3a2	Aldh1b1	
+TETRAHYDROFOLATE SALVAGE FROM 5,10-METHENYLTETRAHYDROFOLATE%HUMANCYC%PWY-6613	tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	Mthfd2l	Mthfd1	Mthfd2	Gart	
+ANDROGEN BIOSYNTHESIS%HUMANCYC%PWY66-378	androgen biosynthesis	Hsd3b6	Srd5a1	Hsd3b1	Hsd17b3	Srd5a2	Akr1c18	Cyp17a1	
+PHENYLALANINE DEGRADATION I (AEROBIC)%HUMANCYC%PHENYLALANINE-DEG1-PWY	phenylalanine degradation I (aerobic)	Qdpr	Pah	Pcbd2	Pcbd1	
+TRYPTOPHAN DEGRADATION III (EUKARYOTIC)%HUMANCYC%TRYPTOPHAN-DEGRADATION-1	tryptophan degradation III (eukaryotic)	Kmo	Acmsd	Acat1	Acat2	Afmid	Hadhb	Gcdh	Tdo2	Haao	Kynu	Acaa1a	
+SULFITE OXIDATION IV%HUMANCYC%PWY-5326	sulfite oxidation IV	Suox	
+MEVALONATE PATHWAY I%HUMANCYC%PWY-922	mevalonate pathway I	Acat1	Idi1	Acat2	Mvk	Pmvk	Hmgcr	Mvd	Hmgcs2	Hadhb	Acaa1a	
+XANTHINE AND XANTHOSINE SALVAGE%HUMANCYC%SALVPURINE2-PWY	xanthine and xanthosine salvage	Pnp	
+SERINE BIOSYNTHESIS%HUMANCYC%SERSYN-PWY	serine biosynthesis	Psat1	Phgdh	Psph	
+<I>MYO< I>-INOSITOL BIOSYNTHESIS%HUMANCYC%PWY-2301	<i>myo< i>-inositol biosynthesis	Isyna1	Impad1	Impa2	Impa1	
+ADENINE AND ADENOSINE SALVAGE I%HUMANCYC%P121-PWY	adenine and adenosine salvage I	Aprt	
+D-<I>MYO< I>-INOSITOL-5-PHOSPHATE METABOLISM%HUMANCYC%PWY-6367	D-<i>myo< i>-inositol-5-phosphate metabolism	Plcb4	Plcb3	Plch2	Plch1	Plcd1	Plcd4	Plcd3	Plcb2	Plcb1	Plcg1	Plcz1	Plcg2	Mtmr14	Plce1	Tmem55b	Pip4k2c	Tmem55a	Mtmr3	Pip4k2a	
+PURINE NUCLEOTIDES DEGRADATION II (AEROBIC)%HUMANCYC%PWY-6353	purine nucleotides degradation II (aerobic)	Pnp	Nt5c1a	Nt5e	Nt5c3b	Gda	Impdh1	Xdh	Nt5c2	Ada	Nt5c3	
+HISTAMINE BIOSYNTHESIS%HUMANCYC%PWY-6173	histamine biosynthesis	Hdc	
+ASPARTATE BIOSYNTHESIS%HUMANCYC%ASPARTATESYN-PWY	aspartate biosynthesis	Got1l1	Got1	Got2	
+UDP-D-XYLOSE AND UDP-D-GLUCURONATE BIOSYNTHESIS%HUMANCYC%PWY-4821	UDP-D-xylose and UDP-D-glucuronate biosynthesis	Uxs1	Ugdh	
+GDP-L-FUCOSE BIOSYNTHESIS II (FROM L-FUCOSE)%HUMANCYC%PWY-6	GDP-L-fucose biosynthesis II (from L-fucose)	Fpgt	Fuk	
+PHOSPHATIDYLGLYCEROL BIOSYNTHESIS II (NON-PLASTIDIC)%HUMANCYC%PWY4FS-8	phosphatidylglycerol biosynthesis II (non-plastidic)	Cds1	Lpcat3	Gpat2	Lpcat4	Pgs1	Agpat5	Agpat6	Gpam	Agpat9	Gpd2	Abhd5	Mboat2	Agpat3	Lclat1	Agpat4	Agpat1	Cds2	Agpat2	
+D-<I>MYO< I>-INOSITOL (3,4,5,6)-TETRAKISPHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-6365	D-<i>myo< i>-inositol (3,4,5,6)-tetrakisphosphate biosynthesis	Ipmk	Itpk1	
+NADH REPAIR%HUMANCYC%PWY-6938	NADH repair	Apoa1bp	
+INOSINE-5'-PHOSPHATE BIOSYNTHESIS II%HUMANCYC%PWY-6124	inosine-5'-phosphate biosynthesis II	Atic	Adsl	Paics	
+PHENYLETHYLAMINE DEGRADATION I%HUMANCYC%2PHENDEG-PWY	phenylethylamine degradation I	Aldh2	Aoc3	Aoc2	Aldh3a2	
+DOLICHOL AND DOLICHYL PHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-6129	dolichol and dolichyl phosphate biosynthesis	Dhdds	Srd5a3	Dolk	
+(S)-RETICULINE BIOSYNTHESIS II%HUMANCYC%PWY-6133	(S)-reticuline biosynthesis II	Tyr	
+FATTY ACID &ALPHA;-OXIDATION II%HUMANCYC%PWY66-387	fatty acid &alpha;-oxidation II	Acsbg2	Phyh	Acsl1	Acsl6	Acsl5	Hacl1	Acsl3	Acsl4	Slc27a2	Acsbg1	
+GUANOSINE NUCLEOTIDES DEGRADATION III%HUMANCYC%PWY-6608	guanosine nucleotides degradation III	Pnp	Gda	Xdh	Nt5c2	
+METHYLGLYOXAL DEGRADATION I%HUMANCYC%PWY-5386	methylglyoxal degradation I	Ldhd	Glo1	Hagh	
+MITOCHONDRIAL L-CARNITINE SHUTTLE PATHWAY%HUMANCYC%PWY-6111	mitochondrial L-carnitine shuttle pathway	Cpt1a	Cpt2	Cpt1c	
+PYRIDOXAL 5'-PHOSPHATE SALVAGE PATHWAY%HUMANCYC%PLPSAL-PWY	pyridoxal 5'-phosphate salvage pathway	Pdxk	Pnpo	
+L-DOPA DEGRADATION%HUMANCYC%PWY-6334	L-dopa degradation	Comt	
+ETHANOL DEGRADATION IV%HUMANCYC%PWY66-162	ethanol degradation IV	Acss2	Aldh2	Tyrp1	Cat	Acss1	Aldh3a2	
+URIDINE-5'-PHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-5686	uridine-5'-phosphate biosynthesis	Umps	Cad	
+CMP-<I>N< I>-ACETYLNEURAMINATE BIOSYNTHESIS I (EUKARYOTES)%HUMANCYC%PWY-6138	CMP-<i>N< i>-acetylneuraminate biosynthesis I (eukaryotes)	Gne	Nanp	Nans	Cmas	
+GLUTAMINE DEGRADATION I%HUMANCYC%GLUTAMINDEG-PWY	glutamine degradation I	Gls2	Asns	Gls	
+METHYLMALONYL PATHWAY%HUMANCYC%PROPIONMET-PWY	methylmalonyl pathway	Mcee	Pcca	Pccb	Mut	
+SELENOCYSTEINE BIOSYNTHESIS II (ARCHAEA AND EUKARYOTES)%HUMANCYC%PWY-6281	selenocysteine biosynthesis II (archaea and eukaryotes)	Sars	Pstk	Sephs2	Sars2	Sephs1	Sepsecs	
+GLYCEROL DEGRADATION I%HUMANCYC%PWY-4261	glycerol degradation I	Gyk	Gk2	Gk5	
+HEME BIOSYNTHESIS FROM UROPORPHYRINOGEN-III I%HUMANCYC%HEME-BIOSYNTHESIS-II	heme biosynthesis from uroporphyrinogen-III I	Fech	Cpox	Urod	Ppox	
+DERMATAN SULFATE BIOSYNTHESIS (LATE STAGES)%HUMANCYC%PWY-6568	dermatan sulfate biosynthesis (late stages)	Chst15	Dse	Ust	Chst14	
+ALANINE BIOSYNTHESIS III%HUMANCYC%PWY0-1021	alanine biosynthesis III	Nfs1	
+FOLATE POLYGLUTAMYLATION%HUMANCYC%PWY-2161	folate polyglutamylation	Mthfd1l	Shmt2	Fpgs	Shmt1	Mthfd1	
+KETOGENESIS%HUMANCYC%REACT_1464.NULL	ketogenesis	Bdh1	Acat1	Hmgcs2	Hadhb	Hmgcl	Acaa1a	
+OXIDIZED GTP AND DGTP DETOXIFICATION%HUMANCYC%PWY-6502	oxidized GTP and dGTP detoxification	Nudt1	
+ZYMOSTEROL BIOSYNTHESIS%HUMANCYC%PWY-6074	zymosterol biosynthesis	Tm7sf2	Hsd17b7	Nsdhl	Msmo1	Lbr	Cyp51	
+<I>N< I>-ACETYLGLUCOSAMINE DEGRADATION II%HUMANCYC%PWY-6517	<i>N< i>-acetylglucosamine degradation II	Gnpda1	Nagk	Amdhd2	Gnpda2	
+LANOSTEROL BIOSYNTHESIS%HUMANCYC%PWY-6132	lanosterol biosynthesis	Lss	
+GLYCINE DEGRADATION (CREATINE BIOSYNTHESIS)%HUMANCYC%GLYCGREAT-PWY	glycine degradation (creatine biosynthesis)	Gamt	Gatm	
+PHOSPHATIDYLCHOLINE BIOSYNTHESIS I%HUMANCYC%PWY3O-450	phosphatidylcholine biosynthesis I	Pcyt1a	Cept1	Chpt1	Chka	Chkb	Pcyt1b	
+D-MANNOSE DEGRADATION%HUMANCYC%MANNCAT-PWY	D-mannose degradation	Mpi	
+2-AMINO-3-CARBOXYMUCONATE SEMIALDEHYDE DEGRADATION TO GLUTARYL-COA%HUMANCYC%PWY-5652	2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA	Acmsd	
+INOSITOL PYROPHOSPHATES BIOSYNTHESIS%HUMANCYC%PWY-6369	inositol pyrophosphates biosynthesis	Ipmk	Ip6k1	Ip6k2	Ip6k3	Ppip5k1	Ippk	Ppip5k2	
+GLUTARYL-COA DEGRADATION%HUMANCYC%PWY-5177	glutaryl-CoA degradation	Acat1	Acat2	Hadhb	Gcdh	Acaa1a	
+UDP-<I>N< I>-ACETYL-D-GALACTOSAMINE BIOSYNTHESIS I%HUMANCYC%PWY-5512	UDP-<i>N< i>-acetyl-D-galactosamine biosynthesis I	Gale	
+TRNA CHARGING%HUMANCYC%TRNA-CHARGING-PWY	tRNA charging	Hars2	Dars	Sars	Sars2	Yars	Lars2	Wars	Farsa	Cars2	Farsb	Wars2	Aars2	Mars	Rars2	Kars	Qars	Gars	Iars	Aars	Fars2	Cars	Vars	Nars2	Tars	Tars2	Iars2	Eprs	Ears2	Nars	Lars	Pars2	Rars	Tarsl2	Mars2	Hars	Dars2	Yars2	
+DIPHTHAMIDE BIOSYNTHESIS%HUMANCYC%PWY-6482	diphthamide biosynthesis	Dph5	
+CALCIUM TRANSPORT I%HUMANCYC%PWY-6166	calcium transport I	Atp2a2	Atp2c1	Atp2a1	Atp2c2	Atp2a3	
+SUCROSE DEGRADATION V (MAMMALIAN)%HUMANCYC%PWY66-373	sucrose degradation V (mammalian)	Tpi1	Aldob	Galm	Sis	Aldoa	Khk	
+4-HYDROXYBENZOATE BIOSYNTHESIS%HUMANCYC%PWY-5754-1	4-hydroxybenzoate biosynthesis	Tat	
+<I>S< I>-METHYL-5'-THIOADENOSINE DEGRADATION II%HUMANCYC%PWY-6756	<i>S< i>-methyl-5'-thioadenosine degradation II	Mtap	
+ASPARAGINE BIOSYNTHESIS I%HUMANCYC%ASPARAGINE-BIOSYNTHESIS	asparagine biosynthesis I	Asns	
+2-OXOBUTANOATE DEGRADATION I%HUMANCYC%PWY-5130	2-oxobutanoate degradation I	Bckdhb	Bckdha	Dbt	Dld	Mcee	Pcca	Pccb	Mut	
+SPERMIDINE BIOSYNTHESIS I%HUMANCYC%BSUBPOLYAMSYN-PWY	spermidine biosynthesis I	Srm	
+DTMP <I>DE NOVO< I> BIOSYNTHESIS%HUMANCYC%PWY66-385	dTMP <i>de novo< i> biosynthesis	Dhfr	Tyms	Shmt2	Shmt1	
+ACETYL-COA BIOSYNTHESIS III (FROM CITRATE)%HUMANCYC%PWY-5172	acetyl-CoA biosynthesis III (from citrate)	Acly	
+SUPERPATHWAY OF D-<I>MYO< I>-INOSITOL (1,4,5)-TRISPHOSPHATE METABOLISM%HUMANCYC%PWY-6358	superpathway of D-<i>myo< i>-inositol (1,4,5)-trisphosphate metabolism	Inpp5b	Ipmk	Ocrl	Inpp5k	Itpka	Inppl1	Minpp1	Itpkc	Itpkb	Synj1	Inpp5f	Pten	Inpp1	Impad1	Impa2	Inpp5d	Impa1	Inpp5a	Synj2	
+TRIACYLGLYCEROL DEGRADATION%HUMANCYC%LIPAS-PWY	triacylglycerol degradation	Cel	Pnliprp2	Pnpla2	Abhd12	Mgll	Pnlip	Lipg	Lipc	Lipe	Lipf	Pnpla3	Abhd6	
+GLUCOSE AND GLUCOSE-1-PHOSPHATE DEGRADATION%HUMANCYC%GLUCOSE1PMETAB-PWY	glucose and glucose-1-phosphate degradation	Hkdc1	Pgm2	Pgm5	Gck	Pgm1	
+CHOLESTEROL BIOSYNTHESIS I%HUMANCYC%PWY66-341	cholesterol biosynthesis I	Ebp	Sc5d	Lss	Tm7sf2	Hsd17b7	Nsdhl	Msmo1	Lbr	Cyp51	Dhcr24	Dhcr7	Fdft1	Sqle	
+HISTIDINE DEGRADATION III%HUMANCYC%PWY-5030	histidine degradation III	Hal	Uroc1	Amdhd1	Mthfd2l	Ftcd	Mthfd1	Mthfd2	
+TETRAHYDROBIOPTERIN BIOSYNTHESIS I%HUMANCYC%PWY-5663	tetrahydrobiopterin biosynthesis I	Spr	Gch1	Pts	
+SPHINGOMYELIN METABOLISM%HUMANCYC%PWY3DJ-11281	sphingomyelin metabolism	Smpd2	Smpd3	Smpd4	Sgms1	Smpd1	Sgms2	Samd8	Enpp7	
+RAPOPORT-LUEBERING GLYCOLYTIC SHUNT%HUMANCYC%PWY-6405	Rapoport-Luebering glycolytic shunt	Pgam2	Pgam1	Bpgm	Minpp1	
+D-GLUCURONATE DEGRADATION I%HUMANCYC%PWY-5525	D-glucuronate degradation I	Cryl1	Dcxr	
+NORADRENALINE AND ADRENALINE DEGRADATION%HUMANCYC%PWY-6342	noradrenaline and adrenaline degradation	Aldh2	Adh4	Pnmt	Tomt	Maoa	Maob	Aldh3a2	Comt	
+ARGININE DEGRADATION I (ARGINASE PATHWAY)%HUMANCYC%ARGASEDEG-PWY	arginine degradation I (arginase pathway)	Oat	Arg2	Aldh4a1	Arg1	
+PHOSPHOLIPASES%HUMANCYC%LIPASYN-PWY	phospholipases	Pla2g2e	Pla2g4f	Plch2	Pla2g2d	Plch1	Pla2g2f	Plcd1	Pla2g4c	Plcd4	Pla2g4e	Plcd3	Pla2g4d	Pld4	Pla2g4a	Pld1	Pld3	Plb1	Pld2	Pla2g12a	Pnpla8	Pla2g5	Pla2g3	Pla2g6	Plcz1	Pla2g1b	Plce1	Oc90	Pla2g16	Pla2g10	Plcb4	Plcb3	Plcb2	Plcb1	Plcg1	Plcg2	
+D-<I>MYO< I>-INOSITOL (1,4,5)-TRISPHOSPHATE DEGRADATION%HUMANCYC%PWY-6363	D-<i>myo< i>-inositol (1,4,5)-trisphosphate degradation	Inpp5b	Synj1	Ocrl	Inpp5f	Inpp1	Inpp5k	Impad1	Impa2	Impa1	Inppl1	Inpp5a	Synj2	
+ADENINE AND ADENOSINE SALVAGE VI%HUMANCYC%PWY-6619	adenine and adenosine salvage VI	Adk	
+KETOLYSIS%HUMANCYC%REACT_59.NULL	ketolysis	Bdh1	Acat1	Bdh2	Oxct1	Hadhb	Acaa1a	
+NAD PHOSPHORYLATION AND DEPHOSPHORYLATION%HUMANCYC%NADPHOS-DEPHOS-PWY	NAD phosphorylation and dephosphorylation	Nnt	Acp6	Pxylp1	Nadk	
+NAD BIOSYNTHESIS FROM 2-AMINO-3-CARBOXYMUCONATE SEMIALDEHYDE%HUMANCYC%PWY-5653	NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	Nmnat1	Qprt	Nadsyn1	Nmnat3	Nmnat2	
+L-CYSTEINE DEGRADATION II%HUMANCYC%LCYSDEG-PWY	L-cysteine degradation II	Cth	
+DOPAMINE DEGRADATION%HUMANCYC%PWY6666-2	dopamine degradation	Maoa	Maob	Aldh3a2	Comt	Sult1a1	
+UREA CYCLE%HUMANCYC%PWY-4984	urea cycle	Cps1	Asl	Otc	Ass1	Arg2	Arg1	
+GERANYLGERANYLDIPHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-5120	geranylgeranyldiphosphate biosynthesis	Ggps1	
+3-PHOSPHOINOSITIDE DEGRADATION%HUMANCYC%PWY-6368	3-phosphoinositide degradation	Inpp5b	Inpp4b	Tpte	Pmpca	Ocrl	Inpp5k	Sacm1l	Inppl1	Synj1	Mtmr14	Inpp5f	Pten	Tmem55b	Tmem55a	Mtmr3	Inpp5d	Inpp5e	Inpp4a	Synj2	
+ANANDAMIDE DEGRADATION%HUMANCYC%PWY6666-1	anandamide degradation	Faah	
+PENTOSE PHOSPHATE PATHWAY%HUMANCYC%PENTOSE-P-PWY	pentose phosphate pathway	Tktl1	Rpia	Tktl2	H6pd	Rpe	Taldo1	G6pdx	Pgls	Tkt	Pgd	
+ALL-<I>TRANS< I>-DECAPRENYL DIPHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-5806	all-<i>trans< i>-decaprenyl diphosphate biosynthesis	Pdss2	Pdss1	
+OXIDATIVE ETHANOL DEGRADATION III%HUMANCYC%PWY66-161	oxidative ethanol degradation III	Acss2	Aldh2	Acss1	Cyp2e1	Aldh3a2	
+HEME BIOSYNTHESIS II%HUMANCYC%PWY-5920	heme biosynthesis II	Fech	Cpox	Urod	Ppox	Alad	Alas1	Alas2	Hmbs	Uros	
+L-CYSTEINE DEGRADATION I%HUMANCYC%CYSTEINE-DEG-PWY	L-cysteine degradation I	Cdo1	Got1	
+GDP-GLUCOSE BIOSYNTHESIS%HUMANCYC%PWY-5661	GDP-glucose biosynthesis	Hkdc1	Pgm2	Pgm5	Gck	Pgm1	
+TRYPTOPHAN DEGRADATION TO 2-AMINO-3-CARBOXYMUCONATE SEMIALDEHYDE%HUMANCYC%PWY-5651	tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Kmo	Afmid	Tdo2	Haao	Kynu	
+EUMELANIN BIOSYNTHESIS%HUMANCYC%PWY-6498	eumelanin biosynthesis	Tyrp1	Tyr	Dct	Trpc1	
+URATE BIOSYNTHESIS INOSINE 5'-PHOSPHATE DEGRADATION%HUMANCYC%PWY-5695	urate biosynthesis inosine 5'-phosphate degradation	Pnp	Nt5e	Nt5c3b	Impdh1	Xdh	Nt5c2	
+SPERMINE AND SPERMIDINE DEGRADATION I%HUMANCYC%PWY-6117	spermine and spermidine degradation I	Paox	Sat2	Sat1	Aoc3	Smox	
+URACIL DEGRADATION II (REDUCTIVE)%ARACYC%PWY-3982	uracil degradation II (reductive)	Dpysl2	Dpysl3	Dpysl4	Upb1	Dpysl5	Dpys	Dpyd	Crmp1	
+5-AMINOIMIDAZOLE RIBONUCLEOTIDE BIOSYNTHESIS I%HUMANCYC%PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I	Ppat	Pfas	Gart	
+SEROTONIN AND MELATONIN BIOSYNTHESIS%HUMANCYC%PWY-6030	serotonin and melatonin biosynthesis	Ddc	Aanat	Tph2	Tph1	
+ACYL-COA HYDROLYSIS%HUMANCYC%PWY-5148	acyl-CoA hydrolysis	Acot8	Acot7	Acot9	
+HISTAMINE DEGRADATION%HUMANCYC%PWY-6181	histamine degradation	Aoc1	Hnmt	Aoc2	
+ALANINE DEGRADATION III%HUMANCYC%ALANINE-DEG3-PWY	alanine degradation III	Gpt2	Gpt	
+ALANINE BIOSYNTHESIS II%HUMANCYC%ALANINE-SYN2-PWY	alanine biosynthesis II	Gpt2	Gpt	
+MAP KINASE CASCADE%HUMANCYC%REACT_634.NULL	MAP kinase cascade	Ywhab	
+BMP SIGNALLING PATHWAY%HUMANCYC%REACT_12034.NULL	BMP Signalling Pathway	Ube2d3	Ube2d1	Ski	Bmp2	Smad4	
+CHOLINE BIOSYNTHESIS III%HUMANCYC%PWY-3561	choline biosynthesis III	Pcyt1a	Cept1	Chpt1	Pld4	Pld1	Pld3	Pld2	Pcyt1b	
+TETRAPYRROLE BIOSYNTHESIS II%HUMANCYC%PWY-5189	tetrapyrrole biosynthesis II	Alad	Alas1	Alas2	Hmbs	Uros	
+LEUKOTRIENE BIOSYNTHESIS%HUMANCYC%15354	leukotriene biosynthesis	Alox5	Lta4h	Dpep1	Dpep2	Ltc4s	
+FLAVIN BIOSYNTHESIS IV (MAMMALIAN)%HUMANCYC%11070	flavin biosynthesis IV (mammalian)	Flad1	Rfk	
+GLYCOGEN DEGRADATION II%HUMANCYC%PWY-5941	glycogen degradation II	Pgm2	Pgm5	Pygb	Pgm1	Agl	Pygl	Pygm	
+4-HYDROXYPROLINE DEGRADATION I%HUMANCYC%HYDROXYPRODEG-PWY	4-hydroxyproline degradation I	Aldh4a1	
+<I>TRANS, TRANS< I>-FARNESYL DIPHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-5123	<i>trans, trans< i>-farnesyl diphosphate biosynthesis	Fdps	Idi1	Ggps1	
+L-GLUTAMINE BIOSYNTHESIS II (TRNA-DEPENDENT)%HUMANCYC%PWY-5921	L-glutamine biosynthesis II (tRNA-dependent)	Gatb	Qrsl1	
+OLEATE BIOSYNTHESIS II (ANIMALS)%HUMANCYC%PWY-5996	oleate biosynthesis II (animals)	Acot3	Acot4	Fads2	Fads6	Scd1	Fads1	Acot2	
+PYRUVATE FERMENTATION TO LACTATE%HUMANCYC%PWY-5481	pyruvate fermentation to lactate	Ldhal6b	Ldha	Ldhb	Ldhc	
+D-<I>MYO< I>-INOSITOL (1,4,5)-TRISPHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-6351	D-<i>myo< i>-inositol (1,4,5)-trisphosphate biosynthesis	Pi4ka	Plch2	Plch1	Plcd1	Plcd4	Plcd3	Cdipt	Pi4k2b	Plcz1	Plce1	Pip5kl1	Plcb4	Pip5k1c	Plcb3	Pip5k1b	Pip5k1a	Plcb2	Plcb1	Pi4k2a	Plcg1	Plcg2	Pip4k2b	Pip4k2c	Pip4k2a	Pi4kb	
+GLUTATHIONE-MEDIATED DETOXIFICATION I%HUMANCYC%PWY-4061	glutathione-mediated detoxification I	Gstz1	Ggt7	Ggt6	Gsta3	Anpep	Gstm7	Gstm5	Gstk1	Gstm4	Gstm1	Gstm2	Gm10639	Gsto2	Mgst3	Mgst2	Gstt1	Mgst1	Ggt1	
+LYSINE DEGRADATION II%HUMANCYC%LYSINE-DEG1-PWY	lysine degradation II	Aldh7a1	Aass	Sccpdh	
+PROLINE BIOSYNTHESIS I%HUMANCYC%PROSYN-PWY	proline biosynthesis I	Aldh18a1	Pycr2	Pycr1	Pycrl	
+FATTY ACID &BETA;-OXIDATION I%HUMANCYC%FAO-PWY	fatty acid &beta;-oxidation I	Ehhadh	Hsd17b10	Acaa2	Echs1	Hadh	Acsl6	Hadhb	Acsbg1	Acaa1a	Acsbg2	Acsl1	Acsl5	Acsl3	Acsl4	Slc27a2	Hadha	Eci1	Eci2	
+UDP-<I>N< I>-ACETYL-D-GLUCOSAMINE BIOSYNTHESIS II%HUMANCYC%UDPNACETYLGALSYN-PWY	UDP-<i>N< i>-acetyl-D-glucosamine biosynthesis II	Gfpt1	Gfpt2	Pgm3	Gnpnat1	Uap1	
+CDP-DIACYLGLYCEROL BIOSYNTHESIS I%HUMANCYC%PWY-5667	CDP-diacylglycerol biosynthesis I	Cds1	Lpcat3	Gpat2	Lpcat4	Agpat5	Agpat6	Gpam	Agpat9	Gpd2	Abhd5	Mboat2	Agpat3	Lclat1	Agpat4	Agpat1	Cds2	Agpat2	
+PUTRESCINE BIOSYNTHESIS III%HUMANCYC%PWY-46	putrescine biosynthesis III	Odc1	Azin2	
+COLANIC ACID BUILDING BLOCKS BIOSYNTHESIS%HUMANCYC%COLANSYN-PWY	colanic acid building blocks biosynthesis	Gmppb	Galk1	Gpi1	Ugdh	Tsta3	Gmds	Ugp2	Mpi	Gmppa	Galt	Gale	Pmm2	Pmm1	
+GDP-L-FUCOSE BIOSYNTHESIS I (FROM GDP-D-MANNOSE)%HUMANCYC%PWY-66	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	Tsta3	Gmds	
+SALVAGE PATHWAYS OF PYRIMIDINE DEOXYRIBONUCLEOTIDES%HUMANCYC%PWY0-181	salvage pathways of pyrimidine deoxyribonucleotides	Tymp	Cda	Tk2	Tk1	Aicda	
+D-<I>MYO< I>-INOSITOL (1,4,5,6)-TETRAKISPHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-6366	D-<i>myo< i>-inositol (1,4,5,6)-tetrakisphosphate biosynthesis	Ipmk	Itpk1	Minpp1	
+1,25-DIHYDROXYVITAMIN D<SUB>3< SUB> BIOSYNTHESIS%HUMANCYC%PWY-6076	1,25-dihydroxyvitamin D<sub>3< sub> biosynthesis	Por	Cyp27b1	Cyp2r1	
+GALACTOSE DEGRADATION I (LELOIR PATHWAY)%HUMANCYC%PWY-6317	galactose degradation I (Leloir pathway)	Galk1	Galm	Gale	Galt	
+THIOSULFATE DISPROPORTIONATION III (RHODANESE)%HUMANCYC%PWY-5350	thiosulfate disproportionation III (rhodanese)	Tst	
+METHYLTHIOPROPIONATE BIOSYNTHESIS%HUMANCYC%PWY-5389	methylthiopropionate biosynthesis	Adi1	
+SUPERPATHWAY OF SERINE AND GLYCINE BIOSYNTHESIS I%HUMANCYC%SER-GLYSYN-PWY	superpathway of serine and glycine biosynthesis I	Psat1	Phgdh	Psph	Shmt2	Shmt1	
+NAD SALVAGE PATHWAY III%HUMANCYC%PWY3O-4106	NAD salvage pathway III	Nmnat1	Nmrk2	Nmrk1	Nmnat3	Nmnat2	
+CHONDROITIN SULFATE DEGRADATION (METAZOA)%HUMANCYC%PWY-6573	chondroitin sulfate degradation (metazoa)	Galns	Hexa	Hyal5	Hyal4	Hyal1	Arsb	
+L-DOPACHROME BIOSYNTHESIS%HUMANCYC%PWY-6481	L-dopachrome biosynthesis	Tyr	
+GLUCONEOGENESIS I%HUMANCYC%GLUCONEO-PWY	gluconeogenesis I	Pgk2	Me2	Gpi1	Fbp1	Pck1	Fbp2	Pgam2	Pgam1	Bpgm	Mdh1	Mdh2	Eno1b	Aldob	Eno1	Gapdhs	Eno3	Aldoa	Eno2	Vcan	Pgk1	Me1	Me3	
+GLUTAMATE DEPENDENT ACID RESISTANCE%HUMANCYC%PWY0-1305	glutamate dependent acid resistance	Gad1	Gad2	
+1D-<I>MYO< I>-INOSITOL HEXAKISPHOSPHATE BIOSYNTHESIS V (FROM INS(1,3,4)P3)%HUMANCYC%PWY-6554	1D-<i>myo< i>-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)	Ipmk	Itpk1	Ippk	
+GLYCINE BIOSYNTHESIS III%HUMANCYC%GLYSYN-ALA-PWY	glycine biosynthesis III	Agxt2	Agxt	
+TYROSINE BIOSYNTHESIS IV%HUMANCYC%PWY-6134	tyrosine biosynthesis IV	Pah	
+ADENOSINE NUCLEOTIDES DEGRADATION II%HUMANCYC%SALVADEHYPOX-PWY	adenosine nucleotides degradation II	Pnp	Nt5c1a	Nt5e	Xdh	Nt5c2	Ada	Nt5c3	
+GLUTAMATE DEGRADATION II%HUMANCYC%GLUTDEG-PWY	glutamate degradation II	Got1l1	Got1	Got2	
+CARDIOLIPIN BIOSYNTHESIS II%HUMANCYC%PWY-5269	cardiolipin biosynthesis II	Crls1	Pgs1	
+THIAMIN SALVAGE III%HUMANCYC%PWY-6898	thiamin salvage III	Tpk1	
+DOLICHYL-DIPHOSPHOOLIGOSACCHARIDE BIOSYNTHESIS%HUMANCYC%MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	dolichyl-diphosphooligosaccharide biosynthesis	Dpm1	Dpm3	Alg8	Alg6	Alg5	Alg3	Alg1	Dpagt1	
+FATTY ACID BIOSYNTHESIS INITIATION II%HUMANCYC%PWY-5966	fatty acid biosynthesis initiation II	Oxsm	Fasn	
+GLUTAMATE BIOSYNTHESIS II%HUMANCYC%GLUTAMATE-SYN2-PWY	glutamate biosynthesis II	Glud1	
+TAURINE BIOSYNTHESIS%HUMANCYC%PWY-5331	taurine biosynthesis	Cdo1	Csad	
+FATTY ACID ACTIVATION%HUMANCYC%PWY-5143	fatty acid activation	Acsbg2	Acsl1	Acsl6	Acsl5	Acsl3	Acsl4	Slc27a2	Acsbg1	
+<I>S< I>-METHYL-5-THIO-&ALPHA;-D-RIBOSE 1-PHOSPHATE DEGRADATION%HUMANCYC%PWY-6755	<i>S< i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation	Enoph1	Apip	Mri1	Adi1	
+PENTOSE PHOSPHATE PATHWAY (OXIDATIVE BRANCH)%HUMANCYC%OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch)	H6pd	G6pdx	Pgls	Pgd	
+FATTY ACID &ALPHA;-OXIDATION III%HUMANCYC%PWY66-388	fatty acid &alpha;-oxidation III	Hacl1	Aldh3a2	
+ADENINE AND ADENOSINE SALVAGE III%HUMANCYC%PWY-6609	adenine and adenosine salvage III	Pnp	Hprt	Ada	
+CATECHOLAMINE BIOSYNTHESIS%HUMANCYC%PWY66-301	catecholamine biosynthesis	Pnmt	Ddc	
+THYMINE DEGRADATION%HUMANCYC%PWY-6430	thymine degradation	Dpysl2	Dpysl3	Dpysl4	Upb1	Dpysl5	Dpys	Dpyd	Crmp1	
+4-HYDROXY-2-NONENAL DETOXIFICATION%HUMANCYC%PWY-7112	4-hydroxy-2-nonenal detoxification	Gm10639	Gsta3	
+THIO-MOLYBDENUM COFACTOR BIOSYNTHESIS%HUMANCYC%PWY-5963	thio-molybdenum cofactor biosynthesis	Mocos	
+NAD BIOSYNTHESIS III%HUMANCYC%NAD-BIOSYNTHESIS-III	NAD biosynthesis III	Nmnat1	Nmnat3	Nmnat2	Nampt	
+COENZYME A BIOSYNTHESIS%HUMANCYC%COA-PWY	coenzyme A biosynthesis	Ppcs	Ppcdc	Coasy	
+GLYCOLYSIS I%HUMANCYC%GLYCOLYSIS	glycolysis I	Pgk2	Gpi1	Fbp1	Fbp2	Pgam2	Pgam1	Bpgm	Pklr	Pfkl	Pkm	Pfkm	Tpi1	Pfkp	Eno1b	Aldob	Eno1	Gapdhs	Eno3	Aldoa	Eno2	Vcan	Pgk1	
+<I>N< I>-ACETYLGLUCOSAMINE DEGRADATION I%HUMANCYC%GLUAMCAT-PWY	<i>N< i>-acetylglucosamine degradation I	Gnpda1	Amdhd2	Gnpda2	
+3-PHOSPHOINOSITIDE BIOSYNTHESIS%HUMANCYC%PWY-6352	3-phosphoinositide biosynthesis	Pi4ka	Cdipt	Pik3cg	Pik3cb	Pik3cd	Pik3ca	Pi4k2b	Pik3c2b	Pik3c2a	Pik3c2g	Fig4	Pip5kl1	Pip5k1c	Pip5k1b	Pikfyve	Pip5k1a	Pik3c3	Sacm1l	Pi4k2a	Pik3r5	Pik3r6	Pip4k2b	Pik3r1	Pik3r2	Pik3r3	Pik3r4	Pi4kb	
+UDP-<I>N< I>-ACETYL-D-GALACTOSAMINE BIOSYNTHESIS II%HUMANCYC%PWY-5514	UDP-<i>N< i>-acetyl-D-galactosamine biosynthesis II	Gnpda1	Gpi1	Hkdc1	Pgm3	Gnpda2	Gck	Gale	Gnpnat1	Uap1	
+PHOSPHATIDYLETHANOLAMINE BIOSYNTHESIS III%HUMANCYC%PWY-6273	phosphatidylethanolamine biosynthesis III	Ptdss2	
+SUPERPATHWAY OF GERANYLGERANYLDIPHOSPHATE BIOSYNTHESIS I (VIA MEVALONATE)%HUMANCYC%PWY-5910	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Fdps	Acat1	Idi1	Acat2	Mvk	Pmvk	Hmgcr	Mvd	Hmgcs2	Hadhb	Ggps1	Acaa1a	
+SORBITOL DEGRADATION I%HUMANCYC%PWY-4101	sorbitol degradation I	Sord	
+THYROID HORMONE BIOSYNTHESIS%HUMANCYC%PWY-6241	thyroid hormone biosynthesis	Ctsd	Tpo	
+4-AMINOBUTYRATE DEGRADATION I%HUMANCYC%PWY-6535	4-aminobutyrate degradation I	Aldh5a1	Abat	
+GUANINE AND GUANOSINE SALVAGE I%HUMANCYC%PWY-6620	guanine and guanosine salvage I	Pnp	Hprt	
+FORMALDEHYDE OXIDATION II (GLUTATHIONE-DEPENDENT)%ECOCYC%PWY-1801	formaldehyde oxidation II (glutathione-dependent)	Esd	Adh5	
+LACTOSE DEGRADATION III%HUMANCYC%BGALACT-PWY	lactose degradation III	Glb1	
+ETHANOL DEGRADATION II%HUMANCYC%PWY66-21	ethanol degradation II	Acss2	Aldh2	Acss1	Aldh3a2	
+GLUTAMINE BIOSYNTHESIS I%HUMANCYC%GLNSYN-PWY	glutamine biosynthesis I	Glul	
+SPHINGOSINE AND SPHINGOSINE-1-PHOSPHATE METABOLISM%HUMANCYC%PWY3DJ-11470	sphingosine and sphingosine-1-phosphate metabolism	Asah2	Acer1	Acer2	Asah1	Sphk2	Sphk1	Sgpp2	Sgpp1	Ptgr1	
+CITRULLINE DEGRADATION%HUMANCYC%CITRULLINE-DEG-PWY	citrulline degradation	Otc	
+S-ADENOSYL-L-METHIONINE BIOSYNTHESIS%HUMANCYC%SAM-PWY	S-adenosyl-L-methionine biosynthesis	Mat2a	Mat1a	Mat2b	
+SPERMINE BIOSYNTHESIS%HUMANCYC%ARGSPECAT-PWY	spermine biosynthesis	Sms	
+GLUTATHIONE REDOX REACTIONS I%HUMANCYC%PWY-4081	glutathione redox reactions I	Gpx6	Gpx5	Gsr	Gpx8	Gpx7	Gpx2	Gpx1	Gpx4	Gpx3	
+NAD SALVAGE PATHWAY II%HUMANCYC%NAD-BIOSYNTHESIS-II	NAD salvage pathway II	Enpp3	Nmnat1	Nmrk2	Nmrk1	Nmnat3	Nmnat2	Nt5e	Nt5c3b	Acp6	Pxylp1	Nudt12	Enpp1	
+ASPARAGINE DEGRADATION I%HUMANCYC%ASPARAGINE-DEG1-PWY	asparagine degradation I	Aspg	Asrgl1	
+PRPP BIOSYNTHESIS I%HUMANCYC%PWY0-662	PRPP biosynthesis I	Prps1	Prps2	Prps1l1	
+CHOLESTEROL BIOSYNTHESIS III (VIA DESMOSTEROL)%HUMANCYC%PWY66-4	cholesterol biosynthesis III (via desmosterol)	Ebp	Sc5d	Lss	Tm7sf2	Hsd17b7	Nsdhl	Msmo1	Lbr	Cyp51	Dhcr24	Dhcr7	Fdft1	Sqle	
+ASPARTATE DEGRADATION II%HUMANCYC%MALATE-ASPARTATE-SHUTTLE-PWY	aspartate degradation II	Mdh1	Mdh2	Got1l1	Got1	Got2	
+PROLINE BIOSYNTHESIS II (FROM ARGININE)%HUMANCYC%PWY-4981	proline biosynthesis II (from arginine)	Pycr2	Otc	Pycr1	Pycrl	Oat	
+GLUTAMATE DEGRADATION III (VIA 4-AMINOBUTYRATE)%HUMANCYC%GLUDEG-I-PWY	glutamate degradation III (via 4-aminobutyrate)	Aldh5a1	Abat	Gad1	Gad2	
+PHOSPHATIDYLETHANOLAMINE BIOSYNTHESIS II%HUMANCYC%PWY4FS-6	phosphatidylethanolamine biosynthesis II	Etnk1	Cept1	Ept1	Chkb	Pcyt2	
+PENTOSE PHOSPHATE PATHWAY (NON-OXIDATIVE BRANCH)%HUMANCYC%NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)	Tktl1	Rpia	Tktl2	Rpe	Taldo1	Tkt	
+FATTY ACID &BETA;-OXIDATION III (UNSATURATED, ODD NUMBER)%HUMANCYC%PWY-5137	fatty acid &beta;-oxidation III (unsaturated, odd number)	Ehhadh	Eci1	Eci2	
+GLUTAMATE REMOVAL FROM FOLATES%HUMANCYC%PWY-2161B	glutamate removal from folates	
+D-<I>MYO< I>-INOSITOL (1,3,4)-TRISPHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-6364	D-<i>myo< i>-inositol (1,3,4)-trisphosphate biosynthesis	Inpp5b	Ipmk	Ocrl	Inpp5k	Itpka	Inppl1	Minpp1	Itpkc	Itpkb	Synj1	Pten	Inpp5d	Inpp5a	Synj2	
+NAD BIOSYNTHESIS II (FROM TRYPTOPHAN)%HUMANCYC%NADSYN-PWY	NAD biosynthesis II (from tryptophan)	Kmo	Nmnat1	Qprt	Nadsyn1	Nmnat3	Nmnat2	Afmid	Tdo2	Haao	Kynu	
+PURINE NUCLEOTIDES <I>DE NOVO< I> BIOSYNTHESIS II%HUMANCYC%PWY-841	purine nucleotides <i>de novo< i> biosynthesis II	Atic	Adsl	Ppat	Paics	Gmps	Pfas	Adssl1	Adss	Impdh1	Gart	
+TRIACYLGLYCEROL BIOSYNTHESIS%HUMANCYC%TRIGLSYN-PWY	triacylglycerol biosynthesis	Lppr3	Lppr2	Dgat2	Dgat1	Ppap2c	Lpcat3	Gpat2	Lpcat4	Agpat5	Agpat6	Gpam	Agpat9	Abhd5	Mboat2	Agpat3	Lclat1	Agpat4	Agpat1	Agpat2	Ppap2b	Ppap2a	Mogat1	Ppapdc1a	Lppr4	
+GLUTATHIONE BIOSYNTHESIS%HUMANCYC%GLUTATHIONESYN-PWY	glutathione biosynthesis	Gclc	Gss	Gclm	
+PYRIMIDINE RIBONUCLEOTIDES <I>DE NOVO< I> BIOSYNTHESIS%HUMANCYC%PWY0-162	pyrimidine ribonucleotides <i>de novo< i> biosynthesis	Ctps	Nme7	Nme6	Ctps2	Umps	Cad	Nme3	Nme5	Nme4	Nme1	Cmpk2	Cmpk1	Cant1	
+SALVAGE PATHWAYS OF PYRIMIDINE RIBONUCLEOTIDES%HUMANCYC%PWY0-163	salvage pathways of pyrimidine ribonucleotides	Nme7	Nme6	Upp1	Cda	Upp2	Uprt	Uck1	Aicda	Uck2	Uckl1	Nme3	Nme5	Nme4	Nme1	
+SUPERPATHWAY OF CHOLESTEROL BIOSYNTHESIS%HUMANCYC%PWY66-5	superpathway of cholesterol biosynthesis	Ebp	Sc5d	Idi1	Mvk	Pmvk	Hmgcr	Mvd	Hmgcs2	Lss	Ggps1	Hadhb	Acaa1a	Fdps	Acat1	Acat2	Tm7sf2	Hsd17b7	Nsdhl	Msmo1	Lbr	Cyp51	Dhcr24	Dhcr7	Fdft1	Sqle	
+GDP-MANNOSE BIOSYNTHESIS%HUMANCYC%PWY-5659	GDP-mannose biosynthesis	Gmppb	Gpi1	Mpi	Gmppa	Pmm2	Pmm1	
+CYSTEINE BIOSYNTHESIS HOMOCYSTEINE DEGRADATION%HUMANCYC%HOMOCYSDEGR-PWY	cysteine biosynthesis homocysteine degradation	Cth	Cbs	
+ARGININE DEGRADATION VI (ARGINASE 2 PATHWAY)%HUMANCYC%ARG-PRO-PWY	arginine degradation VI (arginase 2 pathway)	Pycr2	Pycr1	Pycrl	Oat	Arg2	Arg1	
+4-HYDROXYPHENYLPYRUVATE BIOSYNTHESIS%HUMANCYC%PWY-5886	4-hydroxyphenylpyruvate biosynthesis	Tat	
+SEROTONIN DEGRADATION%HUMANCYC%PWY-6313	serotonin degradation	Ugt2b34	Aldh2	Maoa	Maob	Aldh3a2	Sult1a1	
+L-CARNITINE BIOSYNTHESIS%HUMANCYC%PWY-6100	L-carnitine biosynthesis	Tmlhe	Bbox1	Aldh9a1	
+&BETA;-ALANINE DEGRADATION I%HUMANCYC%BETA-ALA-DEGRADATION-I-PWY	&beta;-alanine degradation I	Abat	Aldh6a1	
+DERMATAN SULFATE DEGRADATION (METAZOA)%HUMANCYC%PWY-6576	dermatan sulfate degradation (metazoa)	Hexa	Idua	Hyal5	Hyal1	
+TRNA SPLICING%HUMANCYC%PWY-6689	tRNA splicing	Tsen34	Tsen15	Trpt1	Tsen54	Tsen2	
+EPOXYSQUALENE BIOSYNTHESIS%HUMANCYC%PWY-5670	epoxysqualene biosynthesis	Fdft1	Sqle	
+CREATINE-PHOSPHATE BIOSYNTHESIS%HUMANCYC%PWY-6158	creatine-phosphate biosynthesis	Ckmt1	Ckmt2	Ckm	Ckb	
+GLYCEROL-3-PHOSPHATE SHUTTLE%HUMANCYC%PWY-6118	glycerol-3-phosphate shuttle	Gpd2	Gpd1	
+GLUTAMATE DEGRADATION X%HUMANCYC%PWY-5766	glutamate degradation X	Glud1	
+PURINE RIBONUCLEOSIDES DEGRADATION TO RIBOSE-1-PHOSPHATE%HUMANCYC%PWY0-1296	purine ribonucleosides degradation to ribose-1-phosphate	Pnp	Ada	
+&ALPHA;-TOCOPHEROL DEGRADATION%HUMANCYC%PWY-6377	&alpha;-tocopherol degradation	Cyp4f15	
+TYROSINE DEGRADATION I%HUMANCYC%TYRFUMCAT-PWY	tyrosine degradation I	Tat	Gstz1	Hgd	Fah	Hpd	
+THREONINE DEGRADATION II%HUMANCYC%THREONINE-DEG2-PWY	threonine degradation II	Gcat	
+ACYL CARRIER PROTEIN METABOLISM%HUMANCYC%PWY-6012	acyl carrier protein metabolism	Aasdhppt	
+ARGININE BIOSYNTHESIS IV%HUMANCYC%ARGININE-SYN4-PWY	arginine biosynthesis IV	Asl	Otc	Ass1	Oat	Glud1	
+TREHALOSE DEGRADATION II (TREHALASE)%HUMANCYC%PWY0-1182	trehalose degradation II (trehalase)	Hkdc1	Treh	Gck	Galm	
+TETRAHYDROBIOPTERIN BIOSYNTHESIS II%HUMANCYC%PWY-5664	tetrahydrobiopterin biosynthesis II	Spr	Gch1	Pts	
+&GAMMA;-GLUTAMYL CYCLE%HUMANCYC%PWY-4041	&gamma;-glutamyl cycle	Gclc	Gss	Dpp8	Gclm	Cndp2	Oplah	Ggt7	Ggt1	Ggt6	Anpep	
+SUPEROXIDE RADICALS DEGRADATION%HUMANCYC%DETOX1-PWY	superoxide radicals degradation	Tyrp1	Cat	Sod3	Sod2	
+ACETATE CONVERSION TO ACETYL-COA%HUMANCYC%PWY0-1313	acetate conversion to acetyl-CoA	Acss2	Acss1	
+L-CYSTEINE DEGRADATION III%HUMANCYC%PWY-5329	L-cysteine degradation III	Mpst	
+PYRIMIDINE RIBONUCLEOTIDES INTERCONVERSION%HUMANCYC%PWY-5687	pyrimidine ribonucleotides interconversion	Ctps	Nme7	Nme6	Ctps2	Nme3	Nme5	Nme4	Nme1	Cmpk2	Cmpk1	Cant1	
+1D-<I>MYO< I>-INOSITOL HEXAKISPHOSPHATE BIOSYNTHESIS II (MAMMALIAN)%HUMANCYC%PWY-6362	1D-<i>myo< i>-inositol hexakisphosphate biosynthesis II (mammalian)	Inpp5b	Ipmk	Ocrl	Inpp5k	Itpk1	Itpka	Inppl1	Ippk	Itpkc	Itpkb	Synj1	Inpp5d	Inpp5a	Synj2	
+CHOLESTEROL BIOSYNTHESIS II (VIA 24,25-DIHYDROLANOSTEROL)%HUMANCYC%PWY66-3	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	Ebp	Sc5d	Lss	Tm7sf2	Hsd17b7	Nsdhl	Msmo1	Lbr	Cyp51	Dhcr24	Dhcr7	Fdft1	Sqle	
+MOLYBDENUM COFACTOR BIOSYNTHESIS%HUMANCYC%PWY-6823	molybdenum cofactor biosynthesis	Mocs3	Mocs2	Gphn	Nfs1	
+SULFATE ACTIVATION FOR SULFONATION%HUMANCYC%PWY-5340	sulfate activation for sulfonation	Papss2	Papss1	
+GLYCINE BIOSYNTHESIS I%HUMANCYC%GLYSYN-PWY	glycine biosynthesis I	Shmt2	Shmt1	
+METHYLGLYOXAL DEGRADATION VI%HUMANCYC%MGLDLCTANA-PWY	methylglyoxal degradation VI	Ldhd	
+CERAMIDE DEGRADATION%HUMANCYC%PWY-6483	ceramide degradation	Asah2	
+GLYCOGEN DEGRADATION III%HUMANCYC%PWY-5767	glycogen degradation III	Pgm2	Pgm5	Pygb	Pgm1	Agl	Pygl	Pygm	Mgam	Gaa	
+CITRULLINE-NITRIC OXIDE CYCLE%HUMANCYC%PWY-4983	citrulline-nitric oxide cycle	Nos3	Nos2	Nos1	Asl	Ass1	
